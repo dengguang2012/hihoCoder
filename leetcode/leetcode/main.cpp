@@ -12,6 +12,6 @@ int main()
     cout << "Hello world!" << endl;
 
     lee17::Solution s;
-	 s.letterCombinations("13");
+	s.printVector(s.letterCombinations("233"));
     return 0;
 }
